@@ -20,8 +20,8 @@
 
     <TextView
         android:id="@+id/emailInfoTextView_id"
-        android:layout_width="143dp"
-        android:layout_height="48dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
         android:text="TextView"
         android:textSize="34sp"
